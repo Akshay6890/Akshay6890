@@ -1,4 +1,4 @@
-#### 👋 Hi, I’m Akshay Pendyala<br>
+## 👋 Hi, I’m Akshay Pendyala<br>
 #### 🌍 I am a Full Stack Developer<br>
 #### 🚀 I like to work with cloud to make my website accessible to a huge number of people.<br>
 #### 🏎 I am into a lot of Gaming too..<br>
